@@ -79,11 +79,9 @@ The 1 Degree of Freedom design implements a single capstan drive to control the 
 </div>
 
 #### 2-DOF Longhorn Hapkit Expansion
-blah blah
 
 <div style="display: flex; justify-content: center;">
   <img src="_DOCS/car_game_video.gif" width="50%" alt="HAPLINK">
 </div>
 
 #### Python Interfacing with Haplink
-blah blah
